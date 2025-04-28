@@ -1,0 +1,2 @@
+# tech-begining
+first repository
